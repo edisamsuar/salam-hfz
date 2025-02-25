@@ -2,11 +2,8 @@ const textContainer = document.getElementById('text-container');
 const nextButton = document.getElementById('next-button');
 
 const texts = [
-    "Semangat kerjanya Ya😊😊😊",
-    "Hafizatun Nafisah Adalah Tim Aku Yang Cantik Dan Baik Hati😊",
-    "Semoga Allah Membalas Semua Kebaikanmu😊😊😊",
-    "Semangat😊",
-    "Klik tombol di bawah untuk melanjutkan."
+    "Semangat Ya😊😊😊",
+    "Klik tombol di bawah ini untuk melanjutkan."
 ];
 
 let currentIndex = 0;
